@@ -34,6 +34,7 @@ sudo apt-get install ffmpeg
 ###         : https://ffmpeg.org/ffmpeg.html
 ###         : https://ffmpeg.org/ffmpeg-protocols.html
 ###         : https://trac.ffmpeg.org/wiki/Encode/H.264
+###         : https://stackoverflow.com/questions/42471820/ffmpeg-error-setting-profile-how-to-keep-original-resolution-odf-odd-sized
 ./gen_test_file.sh
 ./gen_test_src.sh
 ```
