@@ -1,7 +1,9 @@
 # insta360_rtsp_streamer
 This is work in progress for:<br>
-a) re-shaping/transcoding the videostream from a Insta360<br>
-b) provide it via a RTSP-Server so that it can be viewed with common video/streaming players<br>
+<ol>
+<li>re-shaping/transcoding the videostream from a Insta360<br>
+<li>provide it via a RTSP-Server so that it can be viewed with common video/streaming players<br>
+</ol>
 
 This is a short documentation on the nessesary Setup-Steps:
 
