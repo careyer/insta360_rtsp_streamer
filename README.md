@@ -33,6 +33,7 @@ sudo apt-get install ffmpeg
 ###reference: https://www.bogotobogo.com/FFMpeg/ffmpeg_video_test_patterns_src.php
 ###         : https://ffmpeg.org/ffmpeg.html
 ###         : https://ffmpeg.org/ffmpeg-protocols.html
+###         : https://trac.ffmpeg.org/wiki/Encode/H.264
 ./gen_test_file.sh
 ./gen_test_src.sh
 ```
