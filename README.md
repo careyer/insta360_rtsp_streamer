@@ -29,11 +29,10 @@ sudo ./rtsp-server.pl
 <b>#Stage-2: Install ffmpeg</b>
 ```
 sudo apt-get install ffmpeg
-###run example ffmpeg pipelines provided om scripts
+###run example ffmpeg pipelines provided in scripts
 ###reference: https://www.bogotobogo.com/FFMpeg/ffmpeg_video_test_patterns_src.php
 ###         : https://ffmpeg.org/ffmpeg.html
 ###         : https://ffmpeg.org/ffmpeg-protocols.html
-Simply fire up the included rtsp-server.pl application and it will listen for clients on port 554 (standard RTSP port), and source streams on port 5545.
 ./gen_test_file.sh
 ./gen_test_src.sh
 ```
